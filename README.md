@@ -36,7 +36,7 @@ you’ll find me solving DSA problems in my favorite language — C++ ❤️</h3
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sandeep-kalla)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sandeep-kalla)
 
  **<h3 align="left">Support Me</h3>**
 
