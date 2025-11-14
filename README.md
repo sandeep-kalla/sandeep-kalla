@@ -35,9 +35,7 @@ you’ll find me solving DSA problems in my favorite language — C++ ❤️</h3
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-kalla&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-<center>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sandeep-kalla)
-</center>
 
  **<h3 align="left">Support Me</h3>**
 
